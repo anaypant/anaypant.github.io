@@ -6,6 +6,7 @@ This site is a  collection of various techy things that I do.
 
 * [Click here for my Pycon submissions](../pycon-submissions)
 * [Click here for my robotics team Ninjabots github](https://github.com/fllninjabots2019/Release) . Our team website is [https://ninjabotsfll.wixsite.com/ninjabots ](https://ninjabotsfll.wixsite.com/ninjabots)
+  * Click [here](https://youtu.be/ShfYy1rA5pk) for a video where I explain our robot design!
 
 ## Code Projects 
 * [Here](https://docs.google.com/document/d/1phUlpH7skkfB7BKbbKWHfrC9CIJ_36PQ6fyGe1FCwMQ/edit?usp=sharing) is a write-up on my programming projects.
