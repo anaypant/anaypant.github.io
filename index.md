@@ -15,7 +15,7 @@ This site is a  collection of various techy things that I do.
 
 
 # Outreach
-* I am starting a summer camp in which students can learn about robotics! Click [here](https://anaypant212.wixsite.com/fllsummercamp)
+* I am starting a camp in which students can learn about robotics! Click [here](https://anaypant212.wixsite.com/fllsummercamp)
  to learn more.
  
 ## Past outreach 
