@@ -20,3 +20,6 @@ This site is a  collection of various techy things that I do.
  
 ## Past outreach 
 * [Here](https://docs.google.com/document/d/1iRA5rBMGZTV6IdMDHKYbWZOJIrbFAJSPLY1TYkFJ-i8/edit?usp=sharing) is an overview of my recent volunteer effort where I mentored a Junior Lego Team
+
+## Teaching and Volunteering
+* I am teaching a lego robotics class to younger students! [Here]() is a video of my first class (others will not be uploaded)!
