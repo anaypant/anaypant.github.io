@@ -26,29 +26,28 @@ I am a volunteer teacher and I teach AI concepts to students in 6th - 12th grade
 
 Here are some examples of my curriculum:
 
-A Cheat Sheet I made for Students https://docs.google.com/document/d/1nTM4zhnyI6ZvvGffhJ6tJTJnfBGc_Hwn5Rc_3oTwOSM/edit?usp=sharing
-TicTacToe using AI https://docs.google.com/presentation/d/1aUIV6jAahnLCWUlGNwtWbg4ew6Q0afl3aSMgEVAaIkE/edit?usp=sharing
-Stock Predictor using AI https://docs.google.com/presentation/d/1HbtudvKDDbJNVzORYFK-6QyyY7YT7-r1OoEZtTZoVg0/edit?usp=sharing
-
+* A Cheat Sheet I made for Students https://docs.google.com/document/d/1nTM4zhnyI6ZvvGffhJ6tJTJnfBGc_Hwn5Rc_3oTwOSM/edit?usp=sharing
+* TicTacToe using AI https://docs.google.com/presentation/d/1aUIV6jAahnLCWUlGNwtWbg4ew6Q0afl3aSMgEVAaIkE/edit?usp=sharing
+* Stock Predictor using AI https://docs.google.com/presentation/d/1HbtudvKDDbJNVzORYFK-6QyyY7YT7-r1OoEZtTZoVg0/edit?usp=sharing
 
 ## Robotics
 I have been learning Robotics since Kindergarden. I started with Lego Robotics and then went on to work on EV3. Then in 2018, my schoolmates and I created a team called Ninjabots and we entered into our first competition. Since then we have competed every year. Our team website is available here [https://ninjabotsfll.wixsite.com/ninjabots ](https://ninjabotsfll.wixsite.com/ninjabots)
  
  In 2021 we are partcipating in the FTC https://www.firstinspires.org/robotics/ftc challege. [This video](https://www.youtube.com/watch?v=dQtZhcgSpx8&t=1047s) describes our design.
- * We completed our first qualifier on March 14th, 2021 - [This is our highest scoring run](https://www.youtube.com/watch?v=9R9KdUW_RYI)
- * We want to better, so we are preparing for our second qualifier on April 10th,2021 - Stay tuned!
+* We completed our first qualifier on March 14th, 2021 - [This is our highest scoring run](https://www.youtube.com/watch?v=9R9KdUW_RYI)
+* We want to better, so we are preparing for our second qualifier on April 10th,2021 - Stay tuned!
  
  ### Code
  [Here](https://github.com/FTCNinjabots/Master-Repository) is the link to the Ninjabots Repository.
  
  ### Video links
-   * I do both mechanical design and programming of the robot. Click [here](https://youtu.be/ShfYy1rA5pk) for a video where I explain our FLL 2020 robot design!
-   * [Ninjabots YoutTube channel](https://www.youtube.com/channel/UCKPbPhpWwP4_FB6e540T7YA) contains more videos.
+ * I do both mechanical design and programming of the robot. Click [here](https://youtu.be/ShfYy1rA5pk) for a video where I explain our FLL 2020 robot design!
+ * [Ninjabots YoutTube channel](https://www.youtube.com/channel/UCKPbPhpWwP4_FB6e540T7YA) contains more videos.
 
 ### Robotics Outreach
 * In Jan and Feb 2020 , I mentored a Junior Lego team ( K-2) for the Google "Boomtown Build Challenge". I wrote about it [here](https://docs.google.com/document/d/1iRA5rBMGZTV6IdMDHKYbWZOJIrbFAJSPLY1TYkFJ-i8/edit?usp=sharing) 
 * Then in summer 2020, I conducted a camp in which students (3-6 grades) learnt about robotics and how to participate in First lego league! 
-  ** I adverstised this camp on hangouts on local Nextdoor. The flyer is available [here](https://anaypant212.wixsite.com/fllsummercamp) 
-  ** [Here]() is a video of my first class of teaching students!
+  * I adverstised this camp on hangouts on local Nextdoor. The flyer is available [here](https://anaypant212.wixsite.com/fllsummercamp) 
+  * [Here]() is a video of my first class of teaching students!
 
 
