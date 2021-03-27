@@ -25,4 +25,3 @@ This site is a  collection of various techy things that I do.
 * I am part of the FTC Ninjabots! [Here](https://github.com/FTCNinjabots/Master-Repository) is the link to the Ninjabots Repository.
    * Click [here](https://youtu.be/ShfYy1rA5pk) for a video where I explain our robot design!
 * Our team website is [https://ninjabotsfll.wixsite.com/ninjabots ](https://ninjabotsfll.wixsite.com/ninjabots)
-* 
