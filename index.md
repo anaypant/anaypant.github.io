@@ -23,3 +23,7 @@ This site is a  collection of various techy things that I do.
 
 ## Teaching and Volunteering
 * I am teaching a lego robotics class to younger students! [Here]() is a video of my first class (others will not be uploaded)!
+
+
+##Robotics
+* I am part of the FTC Ninjabots! [Here](https://github.com/FTCNinjabots/Master-Repository) is the link to the Ninjabots Repository.
