@@ -47,7 +47,7 @@ I have been learning Robotics since Kindergarden. I started with Lego Robotics a
 ### Robotics Outreach
 
 #### 2021
-I have launched my wesbite https://anaypant212.wixsite.com/make-a-bot I am conducting Wedo and Lego robotics classes this summer. Check it out!!
+I have launched my wesbite https://make-a-bot.wixsite.com/make-a-bot I am conducting Wedo and Lego robotics classes this summer. Check it out!!
 
 #### 2020
 * In Jan and Feb 2020 , I mentored a Junior Lego team ( K-2) for the Google "Boomtown Build Challenge". I wrote about it [here](https://docs.google.com/document/d/1iRA5rBMGZTV6IdMDHKYbWZOJIrbFAJSPLY1TYkFJ-i8/edit?usp=sharing) 
