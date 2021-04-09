@@ -10,6 +10,18 @@ I hav been attending PyCon since 2017. I missed 2020 due to the pandemic. Howeve
 I have presented posters in PyCon 2018 and 2019. It is great fun and a nice way to meet other people interested in the same things as you are! 
 * [Click here for my Pycon submissions](../pycon-submissions)
 
+## Outreach & Teaching 
+I started as a teaching assistant to my Mom in 7th grade (2018). My mother is a mentor and advisor to High School kids in Fremont as part of non-profit, https://www.fremontstem.org/ and founder of volunteer organisation https://pykids.readthedocs.io/en/latest/. She leads summer workshops to introduce children to technology and maker projects.  Since 2017 , she is with PyCon and is current Chair for Education Summit - a forum for enabling CS teachers and educators in schools nationwide.
+
+I took my cue from her and have participated as a Teaching Assistant in fremontstem and pykids since 6th grade. I have helped students with setting up their computers with Python and then assisting them during the class. Our classes were covered in the [Connected Science article in 2018](https://drive.google.com/file/d/1hqsp7_tP5brLlI3O-73acZslQwRWogNy/view?usp=sharing)
+
+In 2018 and 2019, I worked as a Teaching Assistant in [ASDRP High School summer projects](https://www.asdrp.org/). We worked on fun projects such as creating DIY Christmas ornaments and EV3 robots.
+
+I have presented these teaching experiences at PyCon as mentioned above. 
+
+Since 2020, I have started doing Robotics and AI outreach - for details see below.
+
+
 ## Code Projects 
 I have been learning some languages such as Python and Java. 
 
@@ -21,7 +33,7 @@ I have been learning some languages such as Python and Java.
 ## AI 
 For the past 3 years, I have taken Artificial Intelligence classes at https://aiclub.world/. AI is a buzz word - It is an exciting yet daunting subject. My instructor made these classes fun and less daunting by using real world examples and games. I got so inspired, I started understanding and writing neural networks in Python in no time. Now, I am trying to create the same experience for my students.
 
-### AI Outreach
+### AI Outreach & Teaching
 I am a volunteer teacher and I teach AI concepts to students in 6th - 12th grade. When I create a course, I think of how to include AI concepts in games. I write games utilizing libraries like turtle and pygame. I consult with my instructor and they help review my courses.
 
 Here are some examples of my curriculum:
@@ -44,7 +56,7 @@ I have been learning Robotics since Kindergarden. I started with Lego Robotics a
  * I do both mechanical design and programming of the robot. Click [here](https://youtu.be/ShfYy1rA5pk) for a video where I explain our FLL 2020 robot design!
  * [Ninjabots YoutTube channel](https://www.youtube.com/channel/UCKPbPhpWwP4_FB6e540T7YA) contains more videos.
 
-### Robotics Outreach
+### Robotics Outreach & Teaching
 
 #### 2021
 I have launched my wesbite [https://make-a-bot.wixsite.com/make-a-bot](https://make-a-bot.wixsite.com/make-a-bot) I am conducting Wedo and Lego robotics classes this summer. Check it out!!
