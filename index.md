@@ -5,7 +5,7 @@ My name is Anay. I am a High School Freshman at [The Athenian School](https://ww
 This site is a  collection of various techy things that I do.
 
 ## PyCon conference
-I hav been attending PyCon since 2017. I missed 2020 due to the pandemic. However I am eager to particpate and present in PyCon 2021 ! My poster titled "Creating and teaching games in Python to teach Artificial Intelligence concepts" has been accepted and I will present it virtually on May 16th, 2021. You can find out more at https://us.pycon.org/2021/
+I have been attending PyCon since 2017. I missed 2020 due to the pandemic. However I am eager to particpate and present in PyCon 2021 ! My poster titled "Creating and teaching games in Python to teach Artificial Intelligence concepts" has been accepted and I will present it virtually on May 16th, 2021. You can find out more at https://us.pycon.org/2021/
 
 I have presented posters in PyCon 2018 and 2019. It is great fun and a nice way to meet other people interested in the same things as you are! 
 * [Click here for my Pycon submissions](../pycon-submissions)
