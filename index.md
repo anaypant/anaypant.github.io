@@ -47,7 +47,7 @@ I have been learning Robotics since Kindergarden. I started with Lego Robotics a
  
  In 2021 we are partcipating in the FTC https://www.firstinspires.org/robotics/ftc challege. [This video](https://www.youtube.com/watch?v=dQtZhcgSpx8&t=1047s) describes our design.
 * We completed our first qualifier on March 14th, 2021 - [This is our highest scoring run](https://www.youtube.com/watch?v=9R9KdUW_RYI)
-* We want to better, so we are preparing for our second qualifier on April 10th,2021 - Stay tuned!
+* We want to do better, so we are preparing for our second qualifier on April 17th,2021 - Stay tuned!
  
 ### Code
  [Here](https://github.com/FTCNinjabots/Master-Repository) is the link to the Ninjabots Repository.
@@ -59,7 +59,7 @@ I have been learning Robotics since Kindergarden. I started with Lego Robotics a
 ### Robotics Outreach & Teaching
 
 #### 2021
-I have launched my wesbite [https://make-a-bot.wixsite.com/make-a-bot](https://make-a-bot.wixsite.com/make-a-bot) I am conducting Wedo and Lego robotics classes this summer. Check it out!!
+I have launched my wesbite [https://make-a-bot.wixsite.com/make-a-bot](https://make-a-bot.wixsite.com/make-a-bot) to teach Wedo and Lego robotics classes this summer. Check it out!!
 
 #### 2020
 * In Jan and Feb 2020 , I mentored a Junior Lego team ( K-2) for the Google "Boomtown Build Challenge". I wrote about it [here](https://docs.google.com/document/d/1iRA5rBMGZTV6IdMDHKYbWZOJIrbFAJSPLY1TYkFJ-i8/edit?usp=sharing) 
