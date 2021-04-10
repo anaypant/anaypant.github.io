@@ -11,7 +11,7 @@ I have presented posters in PyCon 2018 and 2019. It is great fun and a nice way 
 * [Click here for my Pycon submissions](../pycon-submissions)
 
 ## Outreach & Teaching 
-I started as a teaching assistant to my Mom in 7th grade (2018). My mother is a mentor and advisor to High School kids in Fremont as part of non-profit, https://www.fremontstem.org/ and founder of volunteer organisation [Pykids](https://pykids.readthedocs.io/en/latest/). She leads summer workshops to introduce children to technology and maker projects.  Since 2017 , she is with PyCon and is current Chair for Education Summit - a forum for enabling CS teachers and educators in schools nationwide.
+I started as a teaching assistant to my Mom in 7th grade (2018). My mother is a mentor and advisor to High School kids in Fremont as part of non-profit, https://www.fremontstem.org/ and founder of volunteer organisation [Pykids](https://pykids.readthedocs.io/en/latest/). She leads summer workshops to introduce children to technology and maker projects. 
 
 I took my cue from her and have participated as a Teaching Assistant in fremontstem and pykids since 6th grade. I have helped students with setting up their computers with Python and then assisting them during the class. Our classes were covered in the [Connected Science article in 2018](https://drive.google.com/file/d/1hqsp7_tP5brLlI3O-73acZslQwRWogNy/view?usp=sharing)
 
