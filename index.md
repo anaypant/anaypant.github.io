@@ -34,13 +34,25 @@ I have been learning some languages such as Python and Java.
 For the past 3 years, I have taken Artificial Intelligence classes at https://aiclub.world/. AI is a buzz word - It is an exciting yet daunting subject. My instructor made these classes fun and less daunting by using real world examples and games. I got so inspired, I started understanding and writing neural networks in Python in no time. Now, I am trying to create the same experience for my students.
 
 ### Classes
+#### 2021
+* Coming up - AI Scholars program at [Inspirit AI](https://www.inspiritai.com/) - August Cohort
+* Coming up - Summer Internship at [AI Club](https://www.corp.aiclub.world/)
+* Coming up - Presentation to AIClub Student Research Symposium at [AI Club](https://www.corp.aiclub.world/)
+* Jan - March , Teaching Assistant at [AI Club](https://www.corp.aiclub.world/)
+ 
 #### 2020
+* Currently I am working on the [EatRight app](https://medium.com/@anaypant212/an-app-to-give-food-recommendations-using-an-ai-with-python-dcd30dc37048) I have made an application that can recommend food to any user but with a twist: In my app, the most unique function is that the app personalizes the dataset for each user!
+* I blogged about [Linear Regression](https://medium.com/@anaypant212/linear-regression-using-scholastic-gradient-descent-in-python-bed6b07a38de) that I learnt last year 
 * Python with AI class 
   * Presentation video: https://youtu.be/QMoUwgl0cDk
   * Code available here: https://aiclub.world/projects/62d094b2-4ca3-4e9b-ba68-38903b2873af?tab=info
+* [AI Advanced Class ](https://www.corp.aiclub.world/m4-h3-advanced-ai-2)
+
+#### 2019
+* [AI Basic Workshop](https://www.corp.aiclub.world/m1-ai-basics-middle-school)
 
 ### AI Outreach & Teaching
-I am a volunteer teacher and I teach AI concepts to students in 6th - 12th grade. When I create a course, I think of how to include AI concepts in games. I write games utilizing libraries like turtle and pygame. I consult with my instructor and they help review my courses.
+I am a volunteer teacher and I teach AI concepts to students in 6th - 12th grade through [AI Club](https://www.corp.aiclub.world/). When I create a course, I think of how to include AI concepts in games. I write games utilizing libraries like turtle and pygame. I consult with my instructor and they help review my courses.
 
 Here are some examples of my curriculum:
 
