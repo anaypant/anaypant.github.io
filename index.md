@@ -33,6 +33,12 @@ I have been learning some languages such as Python and Java.
 ## AI 
 For the past 3 years, I have taken Artificial Intelligence classes at https://aiclub.world/. AI is a buzz word - It is an exciting yet daunting subject. My instructor made these classes fun and less daunting by using real world examples and games. I got so inspired, I started understanding and writing neural networks in Python in no time. Now, I am trying to create the same experience for my students.
 
+### Classes
+#### 2020
+* Python with AI class 
+  * Presentation video: https://youtu.be/QMoUwgl0cDk
+  * Code available here: https://aiclub.world/projects/62d094b2-4ca3-4e9b-ba68-38903b2873af?tab=info
+
 ### AI Outreach & Teaching
 I am a volunteer teacher and I teach AI concepts to students in 6th - 12th grade. When I create a course, I think of how to include AI concepts in games. I write games utilizing libraries like turtle and pygame. I consult with my instructor and they help review my courses.
 
