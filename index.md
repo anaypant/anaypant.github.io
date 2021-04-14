@@ -7,7 +7,7 @@ This site is a  collection of various techy things that I do.
 ## PyCon conference
 I have been attending PyCon since 2017. I missed 2020 due to the pandemic. However I am eager to particpate and present in PyCon 2021 ! My poster titled "Creating and teaching games in Python to teach Artificial Intelligence concepts" has been accepted and I will present it virtually on May 16th, 2021. You can find out more at https://us.pycon.org/2021/
 
-I have presented posters in PyCon 2018 and 2019. It is great fun and a nice way to meet other people interested in the same things as you are! 
+I have presented posters in PyCon 2018 and 2019. It is great fun and a nice way to meet other people interested in the same things as you are! Thank you PyCon for providing me financial aid each year to attend and present!
 * [Click here for my Pycon submissions](../pycon-submissions)
 
 ## Outreach & Teaching 
