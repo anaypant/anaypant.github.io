@@ -40,7 +40,7 @@ For the past 4 years, I have taken Artificial Intelligence classes at https://ai
 * Intern at [AI Club](https://www.corp.aiclub.world/)
 #### 2021
 * AI Scholars program at [Inspirit AI](https://www.inspiritai.com/) - August Cohort
-* On June 27th, I presented my work "Custom Nutrition via AI Recommendations" with the [EatRight app](https://medium.com/@anaypant212/an-app-to-give-food-recommendations-using-an-ai-with-python-dcd30dc37048) in [AIClub Student Research Symposium] (https://www.corp.aiclub.world/2021-student-research-symposium?utm_medium=email&_hsmi=123569691&_hsenc=p2ANqtz--jK2JHRjS7O6v5Zb2qK8MDf6oHuDqXsVHHrc09cZajRQHTsJgcDWkAlfk2_AlTS4wUi9H_VoIwYZH8lGF5iQzp_BYD7A&utm_content=123569691&utm_source=hs_email)
+* On June 27th, I presented my work "Custom Nutrition via AI Recommendations" with the [EatRight app](https://medium.com/@anaypant212/an-app-to-give-food-recommendations-using-an-ai-with-python-dcd30dc37048) in [AIClub Student Research Symposium](https://www.corp.aiclub.world/2021-student-research-symposium?utm_medium=email&_hsmi=123569691&_hsenc=p2ANqtzjK2JHRjS7O6v5Zb2qK8MDf6oHuDqXsVHHrc09cZajRQHTsJgcDWkAlfk2_AlTS4wUi9H_VoIwYZH8lGF5iQzp_BYD7A&utm_content=123569691&utm_source=hs_email)
 * Summer Internship at [AI Club](https://www.corp.aiclub.world/)
 * Jan - March , Teaching Assistant at [AI Club](https://www.corp.aiclub.world/)
  
