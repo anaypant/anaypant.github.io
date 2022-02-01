@@ -5,7 +5,9 @@ My name is Anay. I am a High School Freshman at [The Athenian School](https://ww
 This site is a  collection of various techy things that I do.
 
 ## PyCon conference
-I have been attending PyCon since 2017. I missed 2020 due to the pandemic. However I am eager to particpate and present in PyCon 2021 ! My poster titled "Creating and teaching games in Python to teach Artificial Intelligence concepts" has been accepted and I will present it virtually on May 16th, 2021. You can find out more at https://us.pycon.org/2021/
+I have been attending PyCon since 2017. I missed 2020 due to the pandemic but I did present virtually ( while recovering from appedicitis in hospital!!)  on May 16th, 2021.  [PyCon poster session presented on hublio. Viewed by 20+ visitors ](https://pyconus2021.hubilo.com/)
+
+I also got an oppotunity to present this submission as a talk in PyOhio 2021 [PyOhio lightning talk - Creating and Teaching Games in Python to teach Artificial Intelligence Concepts to 6-12 graders](https://www.pyohio.org/2021/program/talks/creating-and-teaching-games-in-python-to-teach-artificial-intelligence-concepts)
 
 I have presented posters in PyCon 2018 and 2019. It is great fun and a nice way to meet other people interested in the same things as you are! Thank you PyCon for providing me financial aid each year to attend and present!
 * [Click here for my Pycon submissions](../pycon-submissions)
@@ -31,13 +33,15 @@ I have been learning some languages such as Python and Java.
    * [Code for my Stock Market Project](https://github.com/anaypant/anaypant.github.io/tree/master/Stock)
 
 ## AI 
-For the past 3 years, I have taken Artificial Intelligence classes at https://aiclub.world/. AI is a buzz word - It is an exciting yet daunting subject. My instructor made these classes fun and less daunting by using real world examples and games. I got so inspired, I started understanding and writing neural networks in Python in no time. Now, I am trying to create the same experience for my students.
+For the past 4 years, I have taken Artificial Intelligence classes at https://aiclub.world/. AI is a buzz word - It is an exciting yet daunting subject. My instructor made these classes fun and less daunting by using real world examples and games. I got so inspired, I started understanding and writing neural networks in Python in no time. Since 2020, I work as an intern in AIClub and I try to create the same experience for my 6-12 grade students.
 
 ### Classes
+#### 2022
+* Intern at [AI Club](https://www.corp.aiclub.world/)
 #### 2021
-* Coming up - AI Scholars program at [Inspirit AI](https://www.inspiritai.com/) - August Cohort
-* Coming up - Summer Internship at [AI Club](https://www.corp.aiclub.world/)
-* Coming up - Presentation to AIClub Student Research Symposium at [AI Club](https://www.corp.aiclub.world/)
+* AI Scholars program at [Inspirit AI](https://www.inspiritai.com/) - August Cohort
+* On June 27th, I presented my work "Custom Nutrition via AI Recommendations" with the [EatRight app](https://medium.com/@anaypant212/an-app-to-give-food-recommendations-using-an-ai-with-python-dcd30dc37048) in [AIClub Student Research Symposium] (https://www.corp.aiclub.world/2021-student-research-symposium?utm_medium=email&_hsmi=123569691&_hsenc=p2ANqtz--jK2JHRjS7O6v5Zb2qK8MDf6oHuDqXsVHHrc09cZajRQHTsJgcDWkAlfk2_AlTS4wUi9H_VoIwYZH8lGF5iQzp_BYD7A&utm_content=123569691&utm_source=hs_email)
+* Summer Internship at [AI Club](https://www.corp.aiclub.world/)
 * Jan - March , Teaching Assistant at [AI Club](https://www.corp.aiclub.world/)
  
 #### 2020
@@ -62,22 +66,25 @@ Here are some examples of my curriculum:
 
 ## Robotics
 I have been learning Robotics since Kindergarden. I started with Lego Robotics and then went on to work on EV3. Then in 2018, my schoolmates and I created a team called Ninjabots and we entered into our first competition. Since then we have competed every year. Our team website is available here [https://ninjabotsfll.wixsite.com/ninjabots ](https://ninjabotsfll.wixsite.com/ninjabots)
- 
- In 2021 we are partcipating in the FTC https://www.firstinspires.org/robotics/ftc challege. [This video](https://www.youtube.com/watch?v=dQtZhcgSpx8&t=1047s) describes our design.
-* We completed our first qualifier on March 14th, 2021 - [This is our highest scoring run](https://www.youtube.com/watch?v=9R9KdUW_RYI)
-* We want to do better, so we are preparing for our second qualifier on April 17th,2021 - Stay tuned!
- 
+
+I am the Head of the Programming, and assists the Mechanical Team if needed [Ninjabots team](https://ninjabotsfll.wixsite.com/ninjabots/about-2)
+I also particpate in [Athenian Robotics Club](https://www.athenian-robotics.org/) and in the FRC competitions.
 ### Code
  [Here](https://github.com/FTCNinjabots/Master-Repository) is the link to the Ninjabots Repository.
  
 ### Video links
  * I do both mechanical design and programming of the robot. Click [here](https://youtu.be/ShfYy1rA5pk) for a video where I explain our FLL 2020 robot design!
  * [Ninjabots YoutTube channel](https://www.youtube.com/channel/UCKPbPhpWwP4_FB6e540T7YA) contains more videos.
+ * [This video](https://www.youtube.com/watch?v=dQtZhcgSpx8&t=1047s) describes our design.
+ * FTC qualifier,March 14th, 2021 - [This is our highest scoring run](https://www.youtube.com/watch?v=9R9KdUW_RYI)
 
 ### Robotics Outreach & Teaching
 
-#### 2021
-I have launched my wesbite [https://make-a-bot.wixsite.com/make-a-bot](https://make-a-bot.wixsite.com/make-a-bot) to teach Wedo and Lego robotics classes this summer. Check it out!!
+#### 2021 - 2022
+I founded and launched "Makeabot LLC"  [https://make-a-bot.wixsite.com/make-a-bot](https://make-a-bot.wixsite.com/make-a-bot) to teach Wedo and Lego robotics classes in summer 2021. My plan is to continue this venture in 2022
+* Post the success of the [FLL summer camps](https://docs.google.com/document/d/1mF0uoyMDxQfux0aRXnJjfWKKwbNYgEgON5QJnQxCdmQ/edit?usp=sharing), Makeabot got hired to mentor two teams (FLL , FLL Junior) for 2021-22 season. 
+* I managed the service agreement, curriculum, finances and coordinated rotations with my team. The profits (~2000 USD) from this job went into funding our FTC partcipation costs!.  
+* You can read about our mentoring experience [here](https://ninjabotsfll.wixsite.com/ninjabots)
 
 #### 2020
 * In Jan and Feb 2020 , I mentored a Junior Lego team ( K-2) for the Google "Boomtown Build Challenge". I wrote about it [here](https://docs.google.com/document/d/1iRA5rBMGZTV6IdMDHKYbWZOJIrbFAJSPLY1TYkFJ-i8/edit?usp=sharing) 
