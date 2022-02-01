@@ -1,9 +1,13 @@
 # pycon-submissions
+**2022**
+* Submitted to PyCon 2022
+* 
 
 **2021**
-[PyOhio lightning talk - Creating and Teaching Games in Python to teach Artificial Intelligence Concepts to 6-12 graders](https://www.pyohio.org/2021/program/talks/creating-and-teaching-games-in-python-to-teach-artificial-intelligence-concepts)
-[Youtube video](https://youtu.be/eNaPGZX7Co0)
-[PyCon poster session](https://pyconus2021.hubilo.com/)
+* [PyOhio lightning talk - Creating and Teaching Games in Python to teach Artificial Intelligence Concepts to 6-12 graders](https://www.pyohio.org/2021/program/talks/creating-and-teaching-games-in-python-to-teach-artificial-intelligence-concepts)
+** [Youtube video](https://youtu.be/eNaPGZX7Co0)
+* [PyCon 2021 poster slides](https://docs.google.com/presentation/d/1AF_CIiptDZVgxBFFpeiFKewns0qONrA9U8IJmOjyMF4/edit?usp=sharing)
+* [PyCon poster session presented on hublio. Viewed by 20+ visitors ](https://pyconus2021.hubilo.com/)
 
 **2020**
 Pandemic :(
