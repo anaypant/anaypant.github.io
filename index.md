@@ -1,6 +1,6 @@
 # Hello world!
 
-My name is Anay. I am a High School Freshman at [The Athenian School](https://www.athenian.org/) in California.  I have a passion for coding and robotics.
+My name is Anay. I am a High School student at [The Athenian School](https://www.athenian.org/) in California.  I have a passion for coding and robotics.
 
 This site is a  collection of various techy things that I do.
 
