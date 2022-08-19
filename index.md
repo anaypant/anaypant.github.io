@@ -29,8 +29,8 @@ I have been learning some languages such as Python and Java.
 
 ### Python projects 
 * [Here](https://docs.google.com/document/d/1phUlpH7skkfB7BKbbKWHfrC9CIJ_36PQ6fyGe1FCwMQ/edit?usp=sharing) is a write-up on my programming projects.
-   * [Code for my chess project](https://github.com/anaypant/anaypant.github.io/tree/master/Chess) 
-   * [Code for my Stock Market Project](https://github.com/anaypant/anaypant.github.io/tree/master/Stock)
+   * [Code for my chess project](https://github.com/anaypant/anaypant.github.io/tree/master/Single%20Projects/Chess)
+   * [Code for my Stock Market Project](https://github.com/anaypant/anaypant.github.io/tree/master/Single%20Projects/Stock)
 
 ## AI 
 For the past 4 years, I have taken Artificial Intelligence classes at https://aiclub.world/. AI is a buzz word - It is an exciting yet daunting subject. My instructor made these classes fun and less daunting by using real world examples and games. I got so inspired, I started understanding and writing neural networks in Python in no time. Since 2020, I work as an intern in AIClub and I try to create the same experience for my 6-12 grade students.
