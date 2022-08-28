@@ -9,7 +9,7 @@ This site is a  collection of various techy things that I do.
 In August 2022, I have joined as a High School Intern @ [Araali Networks](https://www.araalinetworks.com/) More to come!
 
 # Python conferences
-[Checkout my 2022 PyOhio talk-](https://www.youtube.com/watch?v=2Cm8AcCg2aI)
+[Checkout my 2022 PyOhio talk](https://www.pyohio.org/2022/program/talks/flappy-bird-ai)
 
 I have been attending PyCon since 2017. I missed 2020 due to the pandemic but I did present virtually ( while recovering from appedicitis in hospital!!)  on May 16th, 2021.  [PyCon poster session presented on hublio. Viewed by 20+ visitors ](https://pyconus2021.hubilo.com/)
 
