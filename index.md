@@ -16,7 +16,7 @@ I have been attending PyCon since 2017. I missed 2020 due to the pandemic but I 
 I also got an oppotunity to present this submission as a talk in PyOhio 2021 [PyOhio lightning talk - Creating and Teaching Games in Python to teach Artificial Intelligence Concepts to 6-12 graders](https://www.pyohio.org/2021/program/talks/creating-and-teaching-games-in-python-to-teach-artificial-intelligence-concepts)
 
 I have presented posters in PyCon 2018 and 2019. It is great fun and a nice way to meet other people interested in the same things as you are! Thank you PyCon for providing me financial aid each year to attend and present!
-* [Click here for my Pycon submissions](../pycon-submissions)
+* [Click here for my Pycon submissions](./pycon-submissions)
 
 ## Other presentations
 
